@@ -1,5 +1,5 @@
-id;name
-123;bread
-134;rolls
-212;milk
-213;butter
+id,name
+123,bread
+134,rolls
+212,milk
+213,butter
