@@ -1,5 +1,5 @@
-tripple,name
-369,bread
-402,rolls
-636,milk
-639,butter
+id,name,tripple
+123,bread,369
+134,rolls,402
+212,milk,636
+213,butter,639

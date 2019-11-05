@@ -25,6 +25,11 @@
   * multiindex for multi-dimensional data
 
 
+Next 2019-12-02 16:00 Ondrejov:
+* topics:
+  * 2D plotting: transparency, intersection
+  * matrix operations
+
 Needs more details sometime:
 * multiple python version
 * string - escapes (\n)
@@ -32,3 +37,4 @@ Needs more details sometime:
 * make code nicer
 * list comprehension
 * parallel execution
+* sys module (print file path, ...)
