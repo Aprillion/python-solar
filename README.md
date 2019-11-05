@@ -1,5 +1,7 @@
 ### Materials from Python workshops with a Solar Physics group
 
+* see also https://nbviewer.jupyter.org/github/Aprillion/python-solar/
+
 2019-10-15:
 * examples: [2019-10-15.ipynb](2019-10-15.ipynb)
 * topics:
@@ -7,13 +9,20 @@
   * syntax - expressions (1+1), statements (if, for), operators (+), variables and assignment (a = 3)
 
 
-Next 2019-10-29 10:15, in Ondrejov:
-* examples (TODO during workshop): [2019-10-29.ipynb](2019-10-29.ipynb)
-* write program
-  * best practice for documentation on top
-* arrays (numpy / pandas / jupyter)
-  * export (save) image
-  * import data file
+2019-10-29:
+* examples: [2019-10-29.ipynb](2019-10-29.ipynb)
+* topics
+  * executing python files
+  * documentation on top of file
+  * importing python modules (=> other local files first, then global libraries)
+  * opening data files for reading/writing
+
+2019-11-05:
+* examples: [2019-11-05.ipynb](2019-11-05.ipynb)
+* topics:
+  * jupyter notebook
+  * arrays in pandas / numpy
+  * multiindex for multi-dimensional data
 
 
 Needs more details sometime:
