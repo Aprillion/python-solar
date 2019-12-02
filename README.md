@@ -24,8 +24,8 @@
   * arrays in pandas / numpy
   * multiindex for multi-dimensional data
 
-
-Next 2019-12-02 16:00 Ondrejov:
+2019-12-02:
+* examples: [2019-12-02.ipynb](2019-12-02.ipynb)
 * topics:
   * 2D plotting: transparency, intersection
   * matrix operations
