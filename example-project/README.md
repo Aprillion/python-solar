@@ -42,23 +42,25 @@ If you have 1 global Python for everything, just follow instructions on https://
     conda install sunpy
     
     python
-    >>> import sunpy.map
+    >>> import sunpy
 
 ### Using conda environments
-When multiple projects need different version of dependencies.
+When multiple projects need different version of dependencies. https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
     conda create --name example-project sunpy
     
     conda activate example-project
+    conda install xxx # to install more stuff in the environment
+    
     python example.py
 
-### Using Pipenv
+### If using Pipenv
 Not recommended by SunPy project, but common in other Python communities. https://pipenv.kennethreitz.org/
 
     pipenv install sunpy[all]
     pipenv run python example.py
 
-### Using Anaconda in existing projects that use Pipenv
+### How to use Anaconda for existing projects that used Pipenv
 See e.g. https://stackoverflow.com/a/57128480/1176601
 
     conda install -c conda-forge Pipfile
