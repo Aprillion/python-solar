@@ -32,12 +32,13 @@
 * note:
   * multiindex slicing is similar to IDL `img2[:, :, 0] = 0` except last index is excluded in Python
 
-Next 2020-01-??:
-* discuss over email when + topics
-* topic suggestions:
-  * strings (practice index slicing in Python)
-  * tips using help documentation (shift+tab in Notebook, google for tutorials)
-  * 
+2020-01-30:
+* recaputilation
+
+2020-02-27:
+* [structure of a project](project)
+
+
 
 Needs more details sometime:
 * multiple python version
